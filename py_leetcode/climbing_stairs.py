@@ -8,4 +8,4 @@ class Solution:
             s1 = s2
             s2 = s
             i+=1
-        return s
+        return s+s
