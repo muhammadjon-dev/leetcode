@@ -1,3 +1,5 @@
+# 1160
+
 class Solution:
     def isitok(self, word, list_chars):
         list_char = dict(list_chars)
